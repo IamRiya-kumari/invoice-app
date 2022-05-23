@@ -1,0 +1,175 @@
+.Component-horizontalScrollContainer-12 ::-webkit-scrollbar-thumb {
+  background-color: white;
+}
+.MuiCheckbox-root {
+  color: white;
+}
+.MuiTableCell-head {
+  color: white;
+  line-height: 1.1rem;
+}
+.MuiPaper-root {
+  color: white;
+  background-color: #283d4a;
+}
+.MTableHeader-header-13 {
+  background-color: #283d4a;
+}
+.MuiTablePagination-root {
+  color: white;
+  border-color: #283d4a;
+}
+.MTablePaginationInner-root-18 {
+  color: white;
+}
+.MuiIconButton-root {
+  color: white;
+  padding: 0px;
+}
+.MuiSelect-icon {
+  color: white;
+}
+.MuiInputBase-root {
+  color: white;
+}
+.MuiIconButton-root.Mui-disabled {
+  color: white;
+}
+.MuiTableCell-body {
+  padding: 0 0px !important;
+  height: 10;
+  text-align: center;
+}
+.MuiTableCell-root {
+  padding: 0px;
+  text-align: center;
+}
+.PrivateSwitchBase-input-17 {
+  padding: 0px;
+  width: 20px;
+  height: 20px;
+}
+.Component-horizontalScrollContainer-12 div div {
+  overflow-y: hidden;
+  padding: 0px 0px;
+}
+.MuiTableCell-alignLeft {
+  text-align: center;
+}
+
+.main {
+  background-color: #2d4250;
+  min-height: 100vh;
+}
+.logo1 {
+  float: left;
+  height: 60px;
+ 
+}
+.logo2 {
+  height: 60px;
+  margin-left: 580px;
+}
+#header {
+  height: 60px;
+  padding-left: 20px;
+}
+#footer {
+  height: 30px;
+  margin-left: 530px;
+  margin-top: 15px;
+  font-size: medium;
+  align-content: center;
+}
+.link {
+  color: blue;
+}
+.copy {
+  color: white;
+}
+.MuiToolbar-regular {
+  min-height: 0px;
+}
+[data-rbd-drag-handle-context-id="1"] {
+  height: 52px;
+  text-align: -webkit-left;
+}
+.MuiTableSortLabel-root {
+  height: 51px;
+  margin: 0px 10.5px;
+}
+.MuiSvgIcon-root {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 1;
+}
+.MTableToolbar-root-5 {
+  height: 50px;
+  padding: 0px;
+}
+.MTableToolbar-spacer-7 {
+  flex: none;
+}
+.MuiToolbar-root.MuiToolbar-regular.MTableToolbar-root-5.MuiToolbar-gutters {
+  width: 1364px;
+  height: 15px;
+}
+.MTableToolbar-actions-8 {
+  width: 1364px;
+}
+button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorInherit {
+  width: 160px;
+  height: 40px;
+  margin: 0px 17px;
+}
+.MuiIcon-root {
+  width: 160px;
+  height: 25px;
+  font-size: 13.5px;
+}
+.MuiFilledInput-input {
+  padding: 18px 10px 3px;
+  background: white;
+  border-radius: 10px;
+}
+.MuiFormLabel-root {
+  line-height: 0;
+}
+.MuiInputBase-input {
+  color: black;
+}
+.css-1z10yd4-MuiFormControl-root-MuiTextField-root {
+  background-color: white;
+  border-radius: 5px;
+}
+.MuiSelect-select.MuiSelect-select{
+  color: white;
+}
+.headButtons{
+  display: flex;
+  background-color: #283d4a;
+  margin-left: 30px;
+}
+.group1{
+  display: flex;
+}
+.reload{
+  margin: 0px 20px;
+}
+.group2{
+  display: flex;
+  margin-left: 80px;
+}
+.tag{
+  color: white;
+  margin-top: 0px;
+  padding-left: 30px;
+  font-size: 25px;
+}
+.MuiCheckbox-colorPrimary	{
+  color:"secondary";
+}
+.garv{
+  height: 60px;
+  width: 300px;
+}
